@@ -1,4 +1,4 @@
-package encriptação;
+package encriptacao;
 
 public class Main {
 
