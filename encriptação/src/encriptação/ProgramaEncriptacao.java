@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class ProgramaEncriptacao {
 
 	private Scanner sc;
-	@SuppressWarnings("unused")
 	private Random random;
 	private ArrayList<Character> list;
 	private ArrayList<Character> shuffledList;
